@@ -1,1 +1,1 @@
-# C0smic01.github.io
+# This piece of shit website took me 2 days to create.
