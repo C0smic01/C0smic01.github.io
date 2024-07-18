@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on C0smic&#39;s Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://c0smic01.github.io/tags/</link>
     <description>Recent content in Tags on C0smic&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Wed, 17 Jul 2024 22:00:46 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://c0smic01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weird Shit Stuff</title>
-      <link>http://localhost:1313/tags/weird-shit-stuff/</link>
+      <link>https://c0smic01.github.io/tags/weird-shit-stuff/</link>
       <pubDate>Wed, 17 Jul 2024 22:00:46 +0700</pubDate>
-      <guid>http://localhost:1313/tags/weird-shit-stuff/</guid>
+      <guid>https://c0smic01.github.io/tags/weird-shit-stuff/</guid>
       <description></description>
     </item>
   </channel>
