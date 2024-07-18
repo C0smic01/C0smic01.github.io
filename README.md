@@ -1,1 +1,0 @@
-# This piece of shit website took me 2 days to create.
